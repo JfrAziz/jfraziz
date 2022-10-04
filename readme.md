@@ -47,10 +47,6 @@ I am not expert, but I know a little bit statistics, data science, data analysis
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux Badge"/>
   
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white" alt="Debian Badge"/>
-  
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white" alt="Arch Linux Badge"/>
-  
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R Badge"/>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
