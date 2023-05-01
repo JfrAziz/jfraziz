@@ -12,7 +12,7 @@
     <a href="https://instagram.com/jafar.h.aziz">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://blog.jafaraziz.com">
+    <a href="https://jafaraziz.com">
       <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/>
     </a>
     <a href="https://jafaraziz.com">
