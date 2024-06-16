@@ -23,4 +23,4 @@
 
 ## :man_technologist: About Me
 
-a Typescript user, mostly frontend development with react, but doing backend with Java/Kotlin sometimes express at my job. I know a little bit about data stuff, like Python & R.
+a Typescript user, mostly frontend development with react, but doing backend with Java/Kotlin sometimes node.js at my job. I know a little bit about data stuff, like Python, R, and SQL Stuff
